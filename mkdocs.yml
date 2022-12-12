@@ -17,3 +17,5 @@ nav:
     - api/index.md
   - Courses:
     - courses/index.md
+extra_css:
+  - stylesheets/extra.css
