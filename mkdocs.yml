@@ -1,4 +1,19 @@
 site_name: Starion Docs
 theme:
   name: material
-  
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+nav:
+  - Getting Started:
+    - getting-started/index.md
+  - Formula:
+    - formula/index.md
+  - Distribute:
+    - distribute/index.md
+  - Integrations:
+    - integrations/index.md
+  - API:
+    - api/index.md
+  - Courses:
+    - courses/index.md
