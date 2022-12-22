@@ -1,0 +1,27 @@
+## Tool Filter
+*Tool Filter*  assists you to add filter conditions by letting you click to choose the option for each elements. 
+Click button **+ Filter Group** then click **+**, and you can start the work.
+
+**Filter elements**
+Your filter includes several conditions. Each condition is practiced on one column only. There are 3 elements in a condition:
+* *A term* is the column that you apply the condition
+* *Function* describes which type of data check the condition does.
+* *Value* to compare with the data in the column
+
+![picture 4](../../../../../images/16b4c3d4077bade2d7187585ff7052d33e64cc81c83421ef4d29301e61f8883e.png)  
+
+
+You can build several conditions on one column at once that creates a Filter Group. A filter group is not neccessary to just contains the conditions on one columns only, it can have different conditions applied on different columns. We make it to work in all the way you want.
+The conditions and filter groups will be activated following their order in the App Editor, from above to below (?).
+
+![Tool Filter Properties ](../../../../../images/cf5600528a4e41bb225b6ac8a566619339e701fb0d66dd707ef2e11b56ab762b.png)  
+
+
+**Supported Function**
+Types of filter function supported are
+* Contains / Not Contain
+  * Data type:
+* Equals / Not Equal
+  * Data type:
+* Starts With
+  * Data type:
