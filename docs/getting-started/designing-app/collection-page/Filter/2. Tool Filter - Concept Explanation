@@ -1,0 +1,23 @@
+# Tool Filter - Concept Explanation
+
+## Summary
+This article explains about the concept of tools filter which includes the components of a filter and a filter group. We provide some practice examples as well so you can have better knowledge of the feature usage.
+
+## Detailed Overview
+### Filter Components
+
+A simple filter has 3 elements
+* *field* is the column in data source that you want to apply the filter on
+* *funtion* is the type of filtering operation
+* *filtering value* can be a *constant* or another *field* in your data source
+
+### Filter Group
+A filter group is a group that includes several filters. It can be
+- different filters applied on one column at once. 
+- different filters applied on different columns at once.
+
+![Alt text](../../../../../images/cf5600528a4e41bb225b6ac8a566619339e701fb0d66dd707ef2e11b56ab762b.png)  
+
+### Filtering Priority
+The conditions and filter groups will be activated following their order in the App Editor, from above to below.
+## Usage Example

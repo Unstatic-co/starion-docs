@@ -1,0 +1,22 @@
+# How to filter data
+## Summary
+This article gives you the instruction on how to use the Tool filter steps by steps.
+
+## Reprequisite
+
+Before you start
+- You can use the tool filter when your filtering conditions are simple ones.
+- Understand the concept of this feature in article [Tool Filter - Concept Explanation](2.%20Tool%20Filter%20-%20Concept%20Explanation)
+- See the type of filter functions that the tool users supports in this article [Tool Filter Function](https://example.com).
+- If you are about to create filter that can includes some calculation among data, please check the work of [Formula Filter](Formula%20Filter)
+
+## Steps
+
+- Switch the icon to *Tool* to turn on the Tool Filter
+  ![picture 4](../../../../../images/b1675fe408f65054098bfb656ea878baa30322d8da66c843b0fa5cdc8c9ba448.png)  
+
+- Click **+ Filter Group** to add a new filter group
+- Click **+** button inside the frame of Filter Group
+  ![picture 3](../../../../../images/7d25a029baef07eaf0280fcc826f2aa86e537cd805b364932d27fa81143f8a46.png)  
+- Choose value for each component of the filter.
+  A list of available options for each component will appear in the order term - function - conditional value.
