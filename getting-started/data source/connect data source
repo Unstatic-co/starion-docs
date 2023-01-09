@@ -1,0 +1,35 @@
+# Connect data source
+## Summary
+This is the instruction on how to connect Starion with your original data source on Google Sheets and Airplay. 
+
+## Prerequisites
+- You need to have an Google Sheet or Airtable account and should sign into it on your device already.
+- Your data table should be ready so you can see the result of syncing progress right away.
+- The ability to sync table from Airtable is only available for paid plans.
+- There are soft and hard limitation on the number of synced rows. Please make sure your current plan can cover the syncing on all rows in your table, so there will be no neccessary data missing. See the pricing plans **here{hyperlink}**.
+
+## Steps
+
+- Go to the tab **Data**. Click **+** button
+- Choose the source platform: **Google Sheets** or **Airtable**
+  ![picture 1](../../../images/09e347f4145cfcd182ad63361ba3056edbbf484ea760409eaee5cd8deee6f7fa.png)  
+
+- An pop-up opens. Click button **Connect**
+  ![picture 2](../../../images/3a96fc0572b63dfdbee14ca034f581ab705ff32627ae8a3598bf3ab8666aff74.png)  
+
+- Do the verification and give access following steps required by the platform
+- Guide to where your table lies
+  - On Google sheets
+    ![picture 6](../../../images/799931aa260a16cc1f581fa0bc34f9f22ca41e89ebaec99cff5c3ef4f89410b4.png)  
+
+  - On Airtable
+    ![picture 5](../../../images/c1f6b0362cfd93664917cb8541faf5184aa6ab25cce08679136e97ba2ffa4ed4.png)  
+
+- Click **Save**. The syncing starts right after. 
+
+While it is in progress, you can see the waiting screen. The time it takes depends on the size of your data as well as the support from the 3rd party (Google or Airtable). But it won't take more than 10 minutes.
+
+## Result
+
+Once your table is synced completely, you can see a duplication of your table in the data tab.
+![picture 7](../../../images/4ad4adc500f6553a5a456894b9e1fb592f3cb32f9596d5730a1cdc6d44a876ee.png)  
